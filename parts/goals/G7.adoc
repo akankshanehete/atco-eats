@@ -10,10 +10,10 @@ endif::[]
 |===
 2+|Stakeholder | Persona | Category 
 
-.2+| Patrons| <<community>> member | <<cameron>> | Direct
-| Citizen of Hamilton | <<carter>> | Direct
-| Indirect Customer| Administrative Assistant | <<logan>> | Direct
-.2+| Restaurant staff | Restaurant Manager | <<drew>> | Direct
+.2+ <<community>> member | <<cameron>> | Direct
+| <<carter>> | Direct
+|  Administrative Assistant | <<logan>> | Direct
+.2+ Restaurant Manager | <<drew>> | Direct
 | Line Cook | <<dylan>> | Direct 
 3+| <<mosaic>> Operational Maintainers | Indirect
 3+| Payment Gateway operators | Indirect
